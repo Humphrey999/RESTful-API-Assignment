@@ -1,0 +1,16 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Humphrey Adjei-Kwarteng 10022200164",
+  "license": "ISC",
+  "description": "A Node.js application using Express to retrieve data from a JSON file and display it via RESTful API.",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {}
+}
